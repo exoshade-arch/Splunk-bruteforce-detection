@@ -84,8 +84,8 @@ index=linux_security sourcetype=linux_secure "Failed password"
 
 Dashboards
 Visualization of SSH brute-force attempts in Splunk:
-![Failed Logins and time-based trends](Splunk1.png)
-![Attacking Ips](Splunk2.png)
+[Failed Logins and time-based trends](Splunk1.png)
+[Attacking Ips](Splunk2.png)
 
 Conclusion
 This lab demonstrates how to forward system logs from a target machine, simulate brute force attacks, and visualize them in Splunk Enterprise.
